@@ -6,7 +6,7 @@ This repository contains the code and documentation for an Exploratory Data Anal
 
 ## Dataset
 
-The dataset used in this project is [Click here]([https://www.example.com)](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-ML0232EN-SkillsNetwork/asset/18100001.csv)
+The dataset used in this project is available [here](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-ML0232EN-SkillsNetwork/asset/18100001.csv).
 
 ## Getting Started
 
